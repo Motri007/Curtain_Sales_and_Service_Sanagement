@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curtain_Sales_and_Service_Sanagement", "Curtain_Sales_and_Service_Sanagement\Curtain_Sales_and_Service_Sanagement.csproj", "{88475001-7168-47B9-935E-29D1747122FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88475001-7168-47B9-935E-29D1747122FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88475001-7168-47B9-935E-29D1747122FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88475001-7168-47B9-935E-29D1747122FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88475001-7168-47B9-935E-29D1747122FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386034DF-7D40-4644-BCB4-2A9DFF1C4EC1}
+	EndGlobalSection
+EndGlobal
